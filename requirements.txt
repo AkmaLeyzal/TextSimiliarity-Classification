@@ -1,0 +1,6 @@
+streamlit>=1.5.2
+pandas
+numpy
+scikit-learn
+Sastrawi
+pickleshare
